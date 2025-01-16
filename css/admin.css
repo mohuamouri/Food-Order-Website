@@ -14,6 +14,7 @@
     padding: 1%;
     width: 80%;
     margin: 0 auto;
+    border: none;
 
 }
 
@@ -113,6 +114,7 @@ table tr td {
 }
 .menu{
     border-bottom: 1px solid gray;
+
 }
 .col-4{
     width: 18%;
